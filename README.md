@@ -7,11 +7,11 @@ Student Email: virinchi.shettigar@spit.ac.in
 # MY TECH SKILLS   
 <img align="right" width="320px" src="https://github-readme-stats.vercel.app/api/top-langs?username=Virinchi26&show_icons=true&locale=en&langs_count=6&layout=compact&theme=gruvbox" alt="Hitstar53"/>  
   
-• Languages: C, C++, Java, & Python  
+• Languages: C, Java, & Python  
 • Frontend: Html, CSS, JS  
-• Frontend Frameworks: Bootstrap, Tailwind, React, React-Native  
+• Frontend Frameworks: Bootstrap, Tailwind, React  
 • Backend: Flask & Django (Python), Node & Express (JS)  
-• Databases: MySQL, SQLite & MongoDB, firebase (GCP)  
+• Databases: MySQL, SQLite & MongoDB, Firebase (GCP)  
 • Version-Control: Gitlab, Github (git)    
 • Other tools: VSCode, WSL (Windows), Android Studio, Linux  
 • Presentation: MS Office, Canva & Figma       
