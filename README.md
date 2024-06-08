@@ -18,11 +18,17 @@ Student Email: virinchi.shettigar@spit.ac.in
 
 # MY PROJECTS
 • Made a TextUtils website using React JS (2024)
+
 • Made a Hotel Booking and Management website using Django (2024)
+
 • Made a "Real Estate Price Prediction" website as AIML (Artificial Intelligence and Machine Learning) Project (2024)
+
 • Made a Museum website as Software Engineering Project (2024)
+
 • Made a "BConnect" App in Data Stellar Hackathon by Barclays Hackathon (Finished in Top 20 - Barclays Hackathon 2023)
+
 • Made a Hotel Management Website as DBMS Mini-Project using PHP (2022)
+
 • Made a terminal based "Battleship" game as a Data Structure Mini-Project (2022)
 
 # GITHUB STATS
