@@ -11,7 +11,7 @@ Student Email: virinchi.shettigar@spit.ac.in
 • Frontend: HMTL, CSS, JS  
 • Frontend Frameworks: Bootstrap, Tailwind, React  
 • Backend: Django (Python), Node & Express (JS)  
-• Databases: MySQL & MongoDB, PostGresSQL
+• Databases: MySQL, PostgresSQL & MongoDB
 • Version-Control: Gitlab, Github (git)    
 • Other tools: VSCode, WSL (Windows), Android Studio, Linux  
 • Presentation: MS Office, Canva & Figma       
