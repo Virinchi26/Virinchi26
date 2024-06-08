@@ -5,28 +5,25 @@ Email: virinchishettigar26@gmail.com
 Student Email: virinchi.shettigar@spit.ac.in    
 
 # MY TECH SKILLS   
-<img align="right" width="320px" src="https://github-readme-stats.vercel.app/api/top-langs?username=Virinchi26&show_icons=true&locale=en&langs_count=6&layout=compact&theme=gruvbox" alt="Hitstar53"/>  
+<img align="right" width="320px" src="https://github-readme-stats.vercel.app/api/top-langs?username=Virinchi26&show_icons=true&locale=en&langs_count=6&layout=compact&theme=gruvbox" alt="Virinchi26"/>  
   
 • Languages: C, Java, & Python  
-• Frontend: Html, CSS, JS  
+• Frontend: HMTL, CSS, JS  
 • Frontend Frameworks: Bootstrap, Tailwind, React  
-• Backend: Flask & Django (Python), Node & Express (JS)  
-• Databases: MySQL, SQLite & MongoDB, Firebase (GCP)  
+• Backend: Django (Python), Node & Express (JS)  
+• Databases: MySQL & MongoDB
 • Version-Control: Gitlab, Github (git)    
 • Other tools: VSCode, WSL (Windows), Android Studio, Linux  
 • Presentation: MS Office, Canva & Figma       
 
 # MY PROJECTS
-• Learning Machine Learning & NLP in Python (Latest - 2024)  
-• Worked on "FarmNet" an application for Agricultural Micro-Entrepreneurs (Feb - 2024)  
-• Made "Nyay" a web application for Lawyers and their clients (Smart India Hackathon - 2023)  
-• Worked on "DevBuddy" a social plaform for developers (2nd Place - SE Hackathon 2023)  
-• Made an AI Product Reviewer (ReviewScope) (Sem IV B.Tech. CE 2023)    
-• Collaborated on the event website for "Code Red" - Oculus Coding League (2022-23)    
-• Made a Hospital Website as DBMS Mini-Project (SEM III B.Tech CE 2022)  
-• Made a simple Crypto Blockchain using linked lists as DS Mini-Project (Sem III B.Tech CE 2022)  
-• Made a discord bot (StarBot) as a general multipurpose bot (2021)  
-• Made many Python Based Mini Projects (2021)  
+• Made a TextUtils website using React JS (2024) 
+• Made a Hotel Booking and Management website using Django (2024) 
+• Made a "Real Estate Price Prediction" website as AIML(Artifical Intelligence and Machine Learning) Project (2024) 
+• Made a Museum website as Software Engineering Project (2024) 
+• Made a "BConnect" App in Data Stellar Hackathon by Barclays Hackathon (Finished in Top 20  - Barclays Hackathon 2023)  
+• Made a Hotel Management Website as DBMS Mini-Project using PHP (2022) 
+• Made a terminal based "Battleship" game as a Data Structure Mini-Project (2022)  
 
 # GITHUB STATS
 
