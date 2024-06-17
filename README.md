@@ -35,7 +35,7 @@ Student Email: virinchi.shettigar@spit.ac.in
 # GITHUB STATS
 
 <!-- <p align="center">
-  <img src="https://activity-graph.herokuapp.com/graph?username=Hitstar53&theme=react" width = "97.5%">
+  <img src="https://activity-graph.herokuapp.com/graph?username=Virinchi26&theme=react" width = "97.5%">
 </p> -->
 
 <p align="center">
