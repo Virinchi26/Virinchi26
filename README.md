@@ -38,10 +38,10 @@ Student Email: virinchi.shettigar@spit.ac.in
   <img src="https://activity-graph.herokuapp.com/graph?username=Virinchi26&theme=react" width = "97.5%">
 </p> -->
 
-<p align="center">
+<!--<p align="center">
 <img src="https://github-readme-stats.vercel.app/api?username=Virinchi26&count_private=true&show_icons=true&&theme=gruvbox&include_all_commits=true" width="46%">
 <img src="https://github-readme-streak-stats.herokuapp.com?user=Virinchi26&theme=gruvbox" width = "49%">
-</p>
+</p> -->
 
 <p align="center">
 <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Virinchi26&theme=gruvbox" width = "65%">
