@@ -13,7 +13,7 @@ Student Email: virinchi.shettigar@spit.ac.in
 • Backend: Django (Python), Node & Express (JS)  
 • Databases: MySQL, PostgresSQL & MongoDB 
 
-• Version-Control: Gitlab, Github (git)    
+• Version-Control: Github (git)    
 • Other tools: VSCode, WSL (Windows), Android Studio, Linux  
 • Presentation: MS Office, Canva & Figma       
 
