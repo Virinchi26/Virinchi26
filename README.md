@@ -8,7 +8,7 @@ Student Email: virinchi.shettigar@spit.ac.in
 <img align="right" width="320px" src="https://github-readme-stats.vercel.app/api/top-langs?username=Virinchi26&show_icons=true&locale=en&langs_count=6&layout=compact&theme=gruvbox" alt="Virinchi26"/>  
   
 • Languages: C, Java, & Python  
-• Frontend: HMTL, CSS, JS  
+• Frontend: HTML, CSS, JS  
 • Frontend Frameworks: Bootstrap, Tailwind, React  
 • Backend: Django (Python), Node & Express (JS)  
 • Databases: MySQL, PostgresSQL & MongoDB 
